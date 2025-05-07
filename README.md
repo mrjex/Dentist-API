@@ -1,4 +1,7 @@
 # Dentist API
+
+> ⚠️ **Disclaimer**: This is a **fork** of [Dentist API](https://github.com/Dentanoid/Dentist-API), originally created and maintained by the [Dentanoid Organization](https://github.com/Dentanoid)
+
 Welcome to the Dentist API! This API is intended to handle communication between micro services and a Dentist client.
 
 ## Getting started
@@ -7,7 +10,7 @@ This service is written in NodeJS. [Check this link for more information about N
 
 To run this service you need to follow the steps described below:
 
-### Installing NodeJS using BREW (if you dont have NodeJS)
+### Installing NodeJS using BREW
 
 If you do not have NodeJS installed on your computer you can download both brew and NodeJS with these commands:
 
@@ -48,17 +51,10 @@ npm run dev
 ```
 Congratulations! You are now running the Dentist API.
  
-
 ## Roadmap
 This service will not get updated in the future, due to project being considered as closed when GU course DIT356 is finished.
 
-
 ## Authors and acknowledgment
-This service is a part of DIT356 distributed systems course, and is created by Group 20. [Check here for more information about the entire project.](https://git.chalmers.se/courses/dit355/2023/student-teams/dit356-2023-20/group-20-distributed-systems/-/wikis/home)
-
-***WIP DUE TO SERVICE STILL BEING DEVELOPED***
-
-In this service the following people have contributed:
 
 - Lucas Holter
 - Cornelia Olofsson Larsson
@@ -66,8 +62,6 @@ In this service the following people have contributed:
 - Jonatan Boman
 - Mohamad Khalil
 - Joel Mattson
-
-
 
 ## Project status
 The service may recieve updates until 9th January 2024, and none after.
